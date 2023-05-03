@@ -101,4 +101,4 @@ for filename in os.listdir(path):
 # Release the VideoWriter object
 output_video.release()
 
-print("Animation complete!")
+print("image sequence of animated image coverted into video to desired folder")
