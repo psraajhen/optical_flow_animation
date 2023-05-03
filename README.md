@@ -33,6 +33,4 @@ The code then applies the Dense Optical Flow algorithm to the sequence of graysc
 
 The resulting images are saved as PNG files and combined into an MP4 video using the OpenCV `VideoWriter()` class.
 
-## Acknowledgments
 
-This code was adapted from the "Optical Flow" tutorial on the OpenCV website.
